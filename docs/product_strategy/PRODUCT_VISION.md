@@ -24,14 +24,11 @@ Our journey is guided by a set of foundational principles that inform every stra
     
 - **Continuous Learning as a Human Right:** In an era of accelerating change, continuous upskilling and reskilling are paramount. Our platform will serve as a lifelong learning companion, adapting to evolving knowledge domains and career demands.
     
-- **Ethical AI in Education:** We are committed to the responsible, transparent, and unbiased deployment of AI. Our system will prioritize user privacy, data security, and algorithmic fairness to build and maintain profound trust.
-    
-
 ## 4. Initial Target Audience & Differentiating Approach
 
 While our ultimate vision for Project Hephaestus is universal, our initial focus will be on **college students**, particularly those **transitioning towards job placement**, especially within **STEM fields**. This demographic acutely experiences the gap between theoretical knowledge acquired in lectures and the practical, applied understanding required for professional success.
 
-- **Addressing Competitive Gaps:** Existing educational platforms often fall short due to being expensive, offering inconsistent quality, and lacking true personalization. Project Hephaestus fundamentally shifts the paradigm by providing a system that is **free, high-quality, and hyper-personalized to each individual's unique learning journey and career aspirations.** For example, a computer science course can be dynamically tailored for a cybersecurity expert, a backend engineer, or a data scientist. This level of adaptive, goal-oriented education is our core differentiator.
+- **Addressing Competitive Gaps:** Existing educational platforms often fall short due to being expensive, offering inconsistent quality, and lacking true personalization. Project Hephaestus fundamentally shifts the paradigm by providing a system that is **free, high-quality, and hyper-personalized to each individual's unique learning journey and career aspirations.** For example, a computer science course can be dynamically tailored for a cybersecurity expert, a backend engineer, or a data scientist. This level of adaptive, goal-oriented education is one of our core differentiator.
     
 
 ## 5. Product Manifestation & Business Sustainability
@@ -48,7 +45,7 @@ Upon achieving its full maturity, Project Hephaestus envisions a future where:
     
 - **Knowledge Gaps are Systematically Addressed:** Learners rapidly identify and fill deficiencies in their understanding, driven by AI that pinpoints precise areas for improvement.
     
-- **Innovation is Accelerated:** A global populace, equipped with profound theoretical understanding and practical application skills, becomes a collective engine for creating meaningful improvements for themselves, their communities, and the world.
+- **Innovation is Accelerated:** A global populace, equipped with profound theoretical understanding and practical application skills, becomes a collective of intelligence for creating meaningful improvements for themselves, their communities, and the world.
     
 - **Societal Advancement:** The democratization of mastery leads to a more skilled, adaptable, and intellectually empowered global citizenry, capable of tackling humanity's most pressing challenges.
     
