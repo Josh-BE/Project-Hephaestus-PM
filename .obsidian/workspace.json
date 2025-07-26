@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/market_analysis/COMPETITOR_ANALYSIS.md",
+                "file": "docs/architecture_overview/ADRs/ADR-001-ServerlessFirst.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMPETITOR_ANALYSIS"
+              "title": "ADR-001-ServerlessFirst"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "502977fb8fd4000d",
   "lastOpenFiles": [
-    "docs/market_analysis/MARKET_OVERVIEW.md",
     "docs/market_analysis/COMPETITOR_ANALYSIS.md",
+    "docs/market_analysis/MARKET_OVERVIEW.md",
     "Untitled.md",
     "docs/product_strategy/USER_PERSONAS.md",
     "docs/product_strategy/ROADMAP.md",
