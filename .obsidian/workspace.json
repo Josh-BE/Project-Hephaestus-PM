@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/architecture_overview/ADRs/ADR-003-ManagedAIApiPreference.md",
+                "file": "docs/product_strategy/PRDs/PRD_Personalized_Learning_Paths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADR-003-ManagedAIApiPreference"
+              "title": "PRD_Personalized_Learning_Paths"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "879b18594c30c78b",
@@ -171,14 +170,15 @@
   },
   "active": "502977fb8fd4000d",
   "lastOpenFiles": [
+    "docs/product_strategy/PRODUCT_VISION.md",
+    "docs/product_strategy/PROBLEM_STATEMENT.md",
+    "docs/architecture_overview/ADRs/ADR-003-ManagedAIApiPreference.md",
     "docs/architecture_overview/ADRs/ADR-002-PostgresForData.md",
     "docs/architecture_overview/ADRs/ADR-001-ServerlessFirst.md",
     "docs/market_analysis/COMPETITOR_ANALYSIS.md",
     "docs/market_analysis/MARKET_OVERVIEW.md",
     "Untitled.md",
     "docs/product_strategy/USER_PERSONAS.md",
-    "docs/product_strategy/ROADMAP.md",
-    "docs/product_strategy/PRODUCT_VISION.md",
-    "docs/product_strategy/PROBLEM_STATEMENT.md"
+    "docs/product_strategy/ROADMAP.md"
   ]
 }
