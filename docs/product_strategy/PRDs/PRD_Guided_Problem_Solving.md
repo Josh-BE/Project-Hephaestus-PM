@@ -1,4 +1,4 @@
-### **Product Requirements Document (PRD): Project Hephaestus - Guided Problem Solving 
+### **Product Requirements Document (PRD): Project Hephaestus - Guided Problem Solving** 
 
 ### **1. Overview**
 
