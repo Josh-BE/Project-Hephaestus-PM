@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/product_strategy/PRDs/PRD_Interactive_Content_Generation.md",
+                "file": "docs/product_strategy/PRDs/PRD_Guided_Problem_Solving.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRD_Interactive_Content_Generation"
+              "title": "PRD_Guided_Problem_Solving"
             }
           }
         ]
@@ -171,7 +171,11 @@
   },
   "active": "502977fb8fd4000d",
   "lastOpenFiles": [
+    "docs/product_strategy/PRDs/PRD_Interactive_Content_Generation.md",
+    "docs/product_strategy/PRDs/PRD_Performance_Assessment_System.md",
     "docs/product_strategy/PRDs/PRD_Personalized_Learning_Paths.md",
+    "docs/product_strategy/PRDs/PRD_User_PRogress_Analytics.md",
+    "docs/product_strategy/PRDs/PRD_Guided_Problem_Solving.md",
     "docs/product_strategy/PRODUCT_VISION.md",
     "docs/product_strategy/PROBLEM_STATEMENT.md",
     "docs/architecture_overview/ADRs/ADR-003-ManagedAIApiPreference.md",
