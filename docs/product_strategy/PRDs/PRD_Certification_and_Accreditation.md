@@ -1,4 +1,4 @@
-### **PRD: Certification and Accreditation v1.0 (MVP)**
+### **PRD: Certification and Accreditation (MVP)**
 
 ### **1. Overview**
 
@@ -10,7 +10,7 @@ In today's job market, employers struggle to verify the specific, applicable ski
 
 Certification and Accreditation addresses this by providing verifiable, trusted credentials that attest to a learner's mastery of specific skills. **The MVP value proposition is to deliver a trustworthy guarantee of competence for a core set of skills, validating the credential's value with learners and employers before expanding its scope and complexity.**
 
-### **3. V1.0 (MVP) Goals & Key Results (OKRs)**
+### **3. MVP Goals & Key Results (OKRs)**
 
 *   **Objective 1: Validate the core value proposition that verifiable credentials drive learner and employer value.**
     *   **KR1:** Achieve a **15% certification completion rate** among eligible learners within 6 months of launch.
@@ -22,7 +22,7 @@ Certification and Accreditation addresses this by providing verifiable, trusted 
     *   **KR2:** Ensure the **external verification rate is at least 5%** of all shared credentials within the first quarter.
     *   **KR3:** Maintain a **less than 1% reported rate of integrity issues** or cheating suspicions from our pilot employer partners.
 
-### **4. User Stories for V1.0 (MVP)**
+### **4. User Stories for MVP**
 
 #### **4.1. Learner Experience**
 *   As a learner, I want to see a clear list of available certifications and understand the specific learning paths and final assessment required to earn one.
@@ -36,7 +36,7 @@ Certification and Accreditation addresses this by providing verifiable, trusted 
 *   As an employer, I want to click on a badge or link (e.g., on a candidate's LinkedIn) and be taken to a trusted verification page.
 *   As an employer, on the verification page, I want to see the earner's name, the specific skill certified, the date of issuance, and a description of what the credential represents, so I can trust its authenticity.
 
-### **5. V1.0 User Flow (with Failure States)**
+### **5. User Flow (with Failure States)**
 
 1.  **Discovery:** Learner explores the "Certifications" tab in their profile.
 2.  **Enrollment & Progress:** Learner pursues a learning path. The UI clearly shows prerequisite modules and their completion status.
@@ -49,7 +49,7 @@ Certification and Accreditation addresses this by providing verifiable, trusted 
 7.  **Credential Issuance & Sharing:** Upon claiming, the user is directed to the third-party platform (Credly) to accept their badge and can use that platform's native sharing tools.
 8.  **Verification:** An external party clicks the shared badge/URL, which resolves to the public, trusted verification page hosted by the third-party service.
 
-### **6. V1.0 (MVP) Functional Requirements**
+### **6. MVP Functional Requirements**
 
 | Category | Requirement | Priority |
 | :--- | :--- | :--- |

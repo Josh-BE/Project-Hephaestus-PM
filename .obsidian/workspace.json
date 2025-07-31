@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/market_analysis/TAM_SAM_SOM.md",
+                "file": "docs/product_strategy/PRDs/PRD_Certification_and_Accreditation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TAM_SAM_SOM"
+              "title": "PRD_Certification_and_Accreditation"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 595.5069465637207
+    "width": 595.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "879b18594c30c78b",
@@ -184,6 +185,7 @@
   },
   "active": "502977fb8fd4000d",
   "lastOpenFiles": [
+    "docs/market_analysis/TAM_SAM_SOM.md",
     "docs/product_strategy/PRDs/PRD_Platform_Integrations.md",
     "docs/product_strategy/PRDs/PRD_Community_Learning_Features.md",
     "docs/product_strategy/PRDs/PRD_Certification_and_Accreditation.md",
