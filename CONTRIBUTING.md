@@ -38,7 +38,7 @@ For general questions, broader ideas, feedback that doesn't fit a bug or feature
 
 ### General Guidelines for All Contributions:
 
-*   **Be Respectful:** All interactions must adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+*   **Be Respectful:** All interactions must adhere to our [Code of Conduct](https://github.com/Josh-BE/Project-Hephaestus-PM/blob/main/.github/CODE_OF_CONDUCT.md).
 *   **Be Clear and Concise:** Provide enough detail for others to understand your contribution.
 *   **Search First:** Before opening a new issue, please check existing issues and discussions to see if your point has already been raised.
 
@@ -50,7 +50,7 @@ Please note that this public repository focuses on **Product Management document
 
 ## Code of Conduct
 
-By participating in this project, you are expected to uphold our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it carefully.
+By participating in this project, you are expected to uphold our [Code of Conduct](https://github.com/Josh-BE/Project-Hephaestus-PM/blob/main/.github/CODE_OF_CONDUCT.md). Please read it carefully.
 
 ---
 
