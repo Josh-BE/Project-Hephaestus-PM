@@ -184,6 +184,9 @@
   },
   "active": "502977fb8fd4000d",
   "lastOpenFiles": [
+    "docs/product_strategy/PRDs/PRD_Platform_Integrations.md",
+    "docs/product_strategy/PRDs/PRD_Community_Learning_Features.md",
+    "docs/product_strategy/PRDs/PRD_Certification_and_Accreditation.md",
     "CONTRIBUTING.md",
     "docs/architecture_overview/ADRs/ADR-005-ExternalAuthServiceIntegration.md",
     "docs/architecture_overview/ADRs/ADR-004-ObjectStorageForUnstructuredContent.md",

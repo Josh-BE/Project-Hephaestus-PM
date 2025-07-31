@@ -16,7 +16,7 @@ We primarily welcome contributions in the form of **well-structured issues and d
 
 If you have an idea for a new feature, a product improvement, or a general suggestion, please use the **Feature Request** template.
 
-*   **Go to [Issues](https://github.com/[YourUsername]/Project-Hephaestus-PM/issues)**
+*   **Go to [Issues](https://github.com/Josh-BE/Project-Hephaestus-PM/issues)**
 *   Click **"New issue"** and select the `Feature Request` template.
 *   Clearly describe the problem you're solving and your proposed solution.
 
@@ -24,7 +24,7 @@ If you have an idea for a new feature, a product improvement, or a general sugge
 
 If you find any errors, inconsistencies, or issues within the documentation itself, or believe there's a flaw in the logic presented, please submit a **Bug Report**.
 
-*   **Go to [Issues](https://github.com/[YourUsername]/Project-Hephaestus-PM/issues)**
+*   **Go to [Issues](https://github.com/Josh-BE/Project-Hephaestus-PM/issues)**
 *   Click **"New issue"** and select the `Bug Report` template.
 *   Provide clear steps to reproduce the issue and describe the unexpected behavior.
 
@@ -32,7 +32,7 @@ If you find any errors, inconsistencies, or issues within the documentation itse
 
 For general questions, broader ideas, feedback that doesn't fit a bug or feature, or to spark conversations about AI in education or product management, please use the **Discussion** template.
 
-*   **Go to [Issues](https://github.com/[YourUsername]/Project-Hephaestus-PM/issues)**
+*   **Go to [Issues](https://github.com/Josh-BE/Project-Hephaestus-PM/issues)**
 *   Click **"New issue"** and select the `Discussion` template.
 *   Clearly state your question or topic for conversation.
 
