@@ -184,6 +184,7 @@
   },
   "active": "502977fb8fd4000d",
   "lastOpenFiles": [
+    "CONTRIBUTING.md",
     "docs/architecture_overview/ADRs/ADR-005-ExternalAuthServiceIntegration.md",
     "docs/architecture_overview/ADRs/ADR-004-ObjectStorageForUnstructuredContent.md",
     "docs/market_analysis/user_interviews/Discovery User Interview - 001 - Oni.md",
