@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "docs/architecture_overview/ADRs/ADR-005-ExternalAuthServiceIntegration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR-005-ExternalAuthServiceIntegration"
+            }
+          },
+          {
+            "id": "52c26a86416d4376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "docs/architecture_overview/ADRs/ADR-004-ObjectStorageForUnstructuredContent.md",
                 "mode": "source",
                 "source": false
@@ -171,6 +185,8 @@
   },
   "active": "502977fb8fd4000d",
   "lastOpenFiles": [
+    "docs/architecture_overview/ADRs/ADR-004-ObjectStorageForUnstructuredContent.md",
+    "docs/architecture_overview/ADRs/ADR-005-ExternalAuthServiceIntegration.md",
     "docs/market_analysis/user_interviews/Discovery User Interview - 001 - Oni.md",
     "docs/market_analysis/user_interviews/Discovery User Interview - 000 - Script.md",
     "docs/product_strategy/PRDs/PRD_User_Progress_Analytics.md",
