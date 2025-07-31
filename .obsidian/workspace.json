@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/architecture_overview/ADRs/ADR-005-ExternalAuthServiceIntegration.md",
+                "file": "docs/market_analysis/TAM_SAM_SOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADR-005-ExternalAuthServiceIntegration"
+              "title": "TAM_SAM_SOM"
             }
           },
           {
@@ -185,8 +185,8 @@
   },
   "active": "502977fb8fd4000d",
   "lastOpenFiles": [
-    "docs/architecture_overview/ADRs/ADR-004-ObjectStorageForUnstructuredContent.md",
     "docs/architecture_overview/ADRs/ADR-005-ExternalAuthServiceIntegration.md",
+    "docs/architecture_overview/ADRs/ADR-004-ObjectStorageForUnstructuredContent.md",
     "docs/market_analysis/user_interviews/Discovery User Interview - 001 - Oni.md",
     "docs/market_analysis/user_interviews/Discovery User Interview - 000 - Script.md",
     "docs/product_strategy/PRDs/PRD_User_Progress_Analytics.md",
