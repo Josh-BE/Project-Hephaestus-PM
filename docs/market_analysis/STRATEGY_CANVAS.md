@@ -1,4 +1,4 @@
-### **Project Hephaestus: Strategy Canvas 
+### Project Hephaestus: Strategy Canvas
 ### 1. Introduction
 
 This document presents our Strategy Canvas and ERRC Framework, powerful analytical tools that visually and structurally illustrate Project Hephaestus's unique market position and key differentiation within the global learning ecosystem. It highlights how we aim to redefine the very basis of value, creating new market space rather than merely competing on existing dimensions.
