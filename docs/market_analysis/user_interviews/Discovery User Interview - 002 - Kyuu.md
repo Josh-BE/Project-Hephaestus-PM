@@ -1,5 +1,3 @@
-Based on the answers provided for "Kyuu," here is the completed interview script, filled in with the most probabilistically optimal responses to create a coherent narrative.
-
 ***
 
 ### **1. The Opener: Context & Permission (1 min)**
